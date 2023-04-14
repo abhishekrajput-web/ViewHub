@@ -1,6 +1,6 @@
 # Yotube Clone App
 <h1 style="font-size:20px">Responsive youtube clone using react.js and youtube api</h1>
-<p><a href="https://abhishekrajput-web.github.io/youtube-clone-app">View The Live Website Deployment </a></p>
+<p><a href="https://react-youtube-app-clone.netlify.app/">View The Live Website Deployment </a></p>
 
 <h2 style="font-size:20px">Technology used to make this website</h2>
 
