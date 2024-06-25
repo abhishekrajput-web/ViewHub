@@ -22,15 +22,6 @@
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
 <p>Fork the repository - <a href="https://github.com/abhishekrajput-web/youtube-clone-app.git">https://github.com/abhishekrajput-web/youtube-clone-app</a></p>
-
-
-<h2 style="margin-top:20px;font-size:20px">Assests and images sources</h2>
-
-<div>
-<li>youtube api</li>
-<li>reference links - w3school and docs link</li>
-</div>
-
  
 <h2 style="margin-top:20px;font-size:20px">Author Info</h2>
 
