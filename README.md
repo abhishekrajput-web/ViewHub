@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/45c854a6-88be-4efd-8fc4-b5f65b8d9af1
 </div>
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/youtube-clone-app.git">https://github.com/abhishekrajput-web/youtube-clone-app</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/ViewHub.git">https://github.com/abhishekrajput-web/ViewHub</a></p>
  
 <h2 style="margin-top:20px;font-size:20px">Author Info</h2>
 
